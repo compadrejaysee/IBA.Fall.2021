@@ -1,0 +1,1 @@
+Upload the dataset on your drive then run the colab notebooks
